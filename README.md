@@ -1,5 +1,4 @@
 ## Chess_puzzles
-<img width="320" height="720" alt="Screenshot_20251116-154910" src="https://github.com/user-attachments/assets/0eb74d45-6c3b-4d10-ba7e-cfee5ef5d986" />
+<img width="300" height="800" alt="c1" src="https://github.com/user-attachments/assets/ffe983b4-be67-49b1-abbd-a5a863da7467" />
 
-<img width="320" height="720" alt="Screenshot_20251116-154914" src="https://github.com/user-attachments/assets/0dfe5d5a-0ef7-4d5b-903e-adf8d5fdf14e" />
-
+<img width="300" height="800" alt="c2" src="https://github.com/user-attachments/assets/4b83d231-324b-44f3-b637-abe0975664f2" />
